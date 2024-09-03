@@ -1,0 +1,2 @@
+# .github
+fectum-docs
